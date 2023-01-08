@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Johns Hopkins
+- company: Johns Hopkins University School of Medicine<br />Johns Hopkins All Children’s Hospital, Florida
+  position: Postdoctoral research fellow
+  duration: April 2022 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Plan, perform, and discuss NGS analysis, molecular biology experiments, and mouse experiments related to RNA-biology and liver diseases such as NASH/NAFLD.</li><li>Create and maintain advanced RNA-seq, ChIP-seq and ChIRP-seq pipelines to meet the needs of the RNA biology-focused lab. The created pipelines are designed to work on the Sun Grid Engine job scheduling system.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Astellas
+- company: Astellas Pharma Inc<br /> Advanced Informatics& Analytics, Tsukuba, Japan
+  position: Senior Associate
+  duration: Oct, 2020 &mdash; Mar, 2022
+  summary: <ul class="resume-item-list"><li>Collaborated with experimental researchers to create, evaluate, and implement analysis pipelines for various NGS-omics data to extract information which could be used as a starting point for creating drug target candidates and hypotheses.</li><li>Created and managed batch job scripts working on the IBM Spectrum LSF and the Sun Grid Engine job scheduling system.</li><li>Created an analysis pipeline capable of analyzing WGS data on the scale of 10,000 patients.This pipeline made it possible to obtain the necessary information from data on more than several thousand patients with a particular disease in about one month.</li><li>Created a combined analysis pipeline of scRNA-seq, spatial transcriptome, and the multiplex immunohistochemistry. This pipeline allowed us to build a database of cell type proportions, mRNA expression information, and protein expression information in cancer tissue sections.</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Okinawa Institute of Science and Technology
+- company: Okinawa Institute of Science and Technology<br /> Cell Signal Unit, Okinawa, Japan
+  position: Junior research fellow 
+  duration: Jun, 2008  &mdash; May, 2010
+  summary: <ul class="resume-item-list"><li>Planed, performed, and discussed molecular biology, mice experiment, and NGS-Omics analysis related to RNA degradation, metabolisms, and neuroscience.</li><li>Wrote papers and analyzed data using R and python.</li></ul>
