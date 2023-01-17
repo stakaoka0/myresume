@@ -1,0 +1,50 @@
+# Publications
+# uncomment the urls if you wish to display them, and add your own URL
+
+- title: Neuronal XRN1 is required for maintenance of whole-body metabolic homeostasis
+  author: <b><u>Takaoka, S.</b></u>, Yanagiya, A., Mohamed, H. M. A., Higa, R., Abe, T., Inoue, K., Takahashi, A., Stoney, P., and Yamamoto, T.
+  year: 2021
+  url: https://www.sciencedirect.com/science/article/pii/S2589004221011196
+  journal: iScience
+  publisher:
+  volume: 24
+  issue: 10
+  page: 103151
+  is_first_author: true
+  description: 
+
+- title: The CCR4-NOT complex maintains liver homeostasis through mRNA deadenylation
+  author: Takahashi, A., Suzuki, T., Soeda, S., <b><u>Takaoka, S.</b></u>, Kobori, S., Yamaguchi, T., Mohamed, H. M. A., Yanagiya, A., Abe, T., Shigeta, M., Furuta, Y., Kuba, K., and Yamamoto, T.
+  year: 2020
+  url: https://www.life-science-alliance.org/content/3/5/e201900494
+  journal: Life Sci Alliance
+  publisher:
+  volume: 3
+  issue: 5
+  page: e201900494
+  is_first_author: false
+  description: 
+
+- title: The CCR4–NOT Deadenylase Complex Maintains Adipocyte Identity
+  author: Takahashi, A#., <b><u>Takaoka, S#.</b></u>, Kobori, S., Yamaguchi, T., Ferwati, S., Kuba, K., Yamamoto, T., and Suzuki, T.
+  year: 2019
+  url: https://www.mdpi.com/1422-0067/20/21/5274
+  journal: Int J Mol Sci
+  publisher:
+  volume: 20
+  issue: 21
+  page: 5274
+  is_first_author: true
+  description: "<b># equal contribution</b>"
+
+- title: The CCR4-NOT deadenylase activity contributes to generation of induced pluripotent stem cells
+  author: Zukeran, A., Takahashi, A., <b><u>Takaoka, S.</b></u>, Mohamed, H. M. A. M., Suzuki, T., Ikematsu, S., and Yamamoto, T.
+  year: 2016
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0006291X16304326
+  journal: Biochem. Biophys. Res. Commun
+  publisher:
+  volume: 474
+  issue: 2
+  page: 233–239
+  is_first_author: false
+  description: 

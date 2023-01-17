@@ -97,24 +97,24 @@
       {% endif %}
 
 
-      {% if site.resume_section_projects %}
-      <!-- begin Projects -->
+      {% if site.resume_section_publicaions %}
+      <!-- begin publicaions -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Publicaions</h2>
         </header>
 
-        {% for project in site.data.projects %}
+        {% for publicaion in site.data.publicaions %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
+          <!-- <h4 class="resume-item-details" itemprop="name">{% if publicaion.url %}<a href="{{ publicaion.url }}" itemprop="url">{{ publicaion.title }}</a>{% else %}{{ publicaion.title }}{% endif %}</h4> -->
+          <p class="resume-item-details" itemprop="description">{{ publicaion.author }} ({{ publicaion.year }}) {% if publicaion.url %}<a href="{{ publicaion.url }}" itemprop="url"><b>{{ publicaion.title }}</b></a>{% else %}{{ publicaion.title }}{% endif %}. <i>{{ publicaion.journal }}</i>, {{ publicaion.publisher }} {{ publicaion.volume }}({{ publicaion.issue }}), {{ publicaion.page }}</p> 
+          <p class="resume-item-copy">{{ publicaion.description}}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Projects -->
+      <!-- end publicaions -->
       {% endif %}
 
       {% if site.resume_section_skills %}
@@ -135,7 +135,7 @@
       <!-- end Skills -->
       {% endif %}
 
-      {% if site.resume_section_recognition %}
+      {% if site.resume_section_presentations %}
       <!-- begin Recognition -->
       <section class="content-section">
 
