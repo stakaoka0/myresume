@@ -9,19 +9,18 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Shohei Takaoka"
+resume_avatar:                  "true"
+resume_name:                    "Shohei Takaoa"
 resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sh.takaoka.91@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+81-(90)-1915-9476　(Japan)"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
+resume_header_contact_info:     "XXXXX, St Petersburg, Florida 33705 • sh.takaoka.91@gmail.com"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A postdoctoral researcher with specialization in molecular biology and bioinformatics. I was working on a project which connects dysregulation of RNA decay in the brain and obesity during my PhD. After I got PhD, I worked at pharmaceutical company as a bioinformatician and experienced analyzing varieties of NGS datasets including RNA-seq, scRNA-seq, Spatial transcriptomics, WGS, etc.</p>"
 
@@ -38,21 +37,22 @@ resume_section_education:       true
 resume_section_publicaions:     true
 resume_section_presentations:   true
 resume_section_skills:          true
-resume_section_links:           true
+resume_section_links:           false
+resume_section_recognition:     false
 resume_section_associations:    false
-# resume_section_interests:       true
+resume_section_interests:       false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/stakaoka0"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_twitter_url:           "http://twitter.com/"
+  # resume_dribbble_url:          "https://dribbble.com/"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/shohei-takaoka-8727ab120/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/s-takaoka-8727ab120/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://stakaoka0.github.io/"
+  # resume_medium_url:            "https://medium.com/"
 resume_print_social_links:      true
 
 # Design settings
